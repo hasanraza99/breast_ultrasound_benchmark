@@ -5,7 +5,9 @@ from pathlib import Path
 import breast_us_benchmark_final_v3 as bench
 
 # Root for internal datasets in your NORMALIZED tree
-INTERNAL_ROOT = Path("/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal")
+INTERNAL_ROOT = Path(
+    "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal"
+)
 
 
 def load_keep_set(path: Path | None):

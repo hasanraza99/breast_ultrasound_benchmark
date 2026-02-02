@@ -1,25 +1,3 @@
-"""
-Breast Ultrasound Classification - Production Ready v2.0
-========================================================
-Final version with all critical fixes:
-- ✅ Config file support for dataset paths
-- ✅ Fixed UCLM/BUS-UCLM key mismatch
-- ✅ Version tracking to prevent old/new run mixing
-- ✅ VGG16 fully unfrozen for fair benchmarking
-- ✅ TTA code completely removed (calibration-focused)
-- ✅ Removed speckle noise augmentation
-- ✅ Fixed test set preprocessing
-- ✅ Optimized reliability diagram computation
-- ✅ Complete checkpoint state restoration
-- ✅ Safe image loading with retry logic
-- ✅ Memory cleanup after training
-
-Run Modes:
-- "ablation": ROI border ablation study (3 models × 10 experiments)
-- "benchmark": Baseline benchmark (10 models × 1 experiment)
-- "both": Run both sequentially
-"""
-
 import subprocess, sys
 
 subprocess.call(

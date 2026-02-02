@@ -10,7 +10,7 @@ Breast cancer remains the most commonly diagnosed malignancy amongst women world
 - **Swin Transformer** achieved the best external validation performance (AUC = 0.907, balanced accuracy = 0.825)
 - ROI preprocessing with uniform border expansion provided modest gains over strict lesion cropping (+1.4% balanced accuracy)
 - Temperature scaling universally improved calibration, reducing expected calibration error by 0.5-3.0%
-- Results derived from **333 experimental runs**
+- Results derived from **352 experimental runs**
 
 ## Architectures Benchmarked
 
@@ -51,15 +51,15 @@ Breast cancer remains the most commonly diagnosed malignancy amongst women world
 ## Data
 
 The framework uses five publicly available breast ultrasound datasets pooled for internal training/validation:
-- BUSI (Al-Dhabyani et al., 2020)
+- USG (Pawłowska, et al., 2023)
 - BUS-BRA (Gomez-Flores et al., 2023)
 - Dataset B (Yap et al., 2018)
-- BUS-UC (Gómez-Flores & Ruiz-Ortega, 2020)
+- BUS_UC (Iqbal, 2023)
 - UDIAT (Yap et al., 2018)
 
 Two additional datasets reserved for external validation:
-- OASBUD
-- STU
+- BUSI (Al-Dhabyani et al., 2020)
+- QAMEBI (Ardakani, et al., 2023)
 
 The `breastdataset_NORMALIZED/` folder contains the processed and standardised versions of these datasets.
 
@@ -72,7 +72,7 @@ If you would like access to the trained model weights for reproducibility or fur
 - Intended use case
 - Which specific checkpoints you need
 
-I will respond with download instructions.
+I will respond with download instructions :)
 
 ## Requirements
 

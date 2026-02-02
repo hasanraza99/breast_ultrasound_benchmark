@@ -1,7 +1,0 @@
-OS: nt
-Platform: win32
-CPU cores (logical): 20
-CPU cores (physical): 14
-RAM total (GB): 31.72
-CUDA: available
-GPU: NVIDIA GeForce RTX 3060 Laptop GPU
