@@ -1,0 +1,4 @@
+,,Test_BalAcc,Test_BalAcc,Test_Sens,Test_Sens,Test_Spec,Test_Spec,Test_AUC,Test_AUC,Test_AUPRC,Test_AUPRC,ECE_Improvement,ECE_Improvement
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Experiment,Model,,,,,,,,,,,,
+baseline_artifacts_moderate_002,resnet50,0.77,0.046,0.754,0.188,0.786,0.102,0.855,0.037,0.793,0.034,0.013,0.008

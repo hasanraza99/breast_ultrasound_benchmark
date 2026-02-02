@@ -1,0 +1,4 @@
+,,Test_BalAcc,Test_BalAcc,Test_Sens,Test_Sens,Test_Spec,Test_Spec,Test_AUC,Test_AUC,Test_AUPRC,Test_AUPRC,ECE_Improvement,ECE_Improvement
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Experiment,Model,,,,,,,,,,,,
+baseline_convnext_artifacts_strict_any,convnext_tiny,0.822,0.015,0.849,0.05,0.794,0.079,0.905,0.006,0.86,0.013,0.01,0.008

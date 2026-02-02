@@ -1,0 +1,15 @@
+/workspace/dash_preds_v2/external/BUSI/benign
+/workspace/dash_preds_v2/external/BUSI/malignant
+/workspace/dash_preds_v2/external/BUSI/normal
+/workspace/dash_preds_v2/external/QAMEBI/benign
+/workspace/dash_preds_v2/external/QAMEBI/malignant
+/workspace/dash_preds_v2/internal/BUS-BRA/benign
+/workspace/dash_preds_v2/internal/BUS-BRA/malignant
+/workspace/dash_preds_v2/internal/BUS-UCLM/benign
+/workspace/dash_preds_v2/internal/BUS-UCLM/malignant
+/workspace/dash_preds_v2/internal/BUS_UC/benign
+/workspace/dash_preds_v2/internal/BUS_UC/malignant
+/workspace/dash_preds_v2/internal/UDIAT/benign
+/workspace/dash_preds_v2/internal/UDIAT/malignant
+/workspace/dash_preds_v2/internal/USG/benign
+/workspace/dash_preds_v2/internal/USG/malignant

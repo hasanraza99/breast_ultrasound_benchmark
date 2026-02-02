@@ -1,0 +1,15 @@
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/normal
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/malignant
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/benign
+/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/malignant

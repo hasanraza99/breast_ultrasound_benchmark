@@ -1,0 +1,417 @@
+Folder: /
+Full path: /workspace/breastdataset_NORMALIZED
+Subfolders: breastdataset_NORMALIZED
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED
+Subfolders: external, internal
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal
+Subfolders: BUS-BRA, BUS-UCLM, BUS_UC, UDIAT, USG
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/USG
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/USG/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/USG/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/malignant/masks
+Subfolders: (none)
+Total files: 98
+Sample files:
+  - case005_mask.png
+  - case007_mask.png
+  - case008_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/USG/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/malignant/images
+Subfolders: (none)
+Total files: 98
+Sample files:
+  - case005.png
+  - case007.png
+  - case008.png
+
+Folder: breastdataset_NORMALIZED/internal/USG/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/USG/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/benign/masks
+Subfolders: (none)
+Total files: 154
+Sample files:
+  - case001_mask.png
+  - case002_mask.png
+  - case003_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/USG/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG/benign/images
+Subfolders: (none)
+Total files: 154
+Sample files:
+  - case001.png
+  - case002.png
+  - case003.png
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/malignant/masks
+Subfolders: (none)
+Total files: 54
+Sample files:
+  - 000018_mask.png
+  - 000023_mask.png
+  - 000024_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/malignant/images
+Subfolders: (none)
+Total files: 54
+Sample files:
+  - 000018.png
+  - 000023.png
+  - 000024.png
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/benign/masks
+Subfolders: (none)
+Total files: 109
+Sample files:
+  - 000001_mask.png
+  - 000002_mask.png
+  - 000003_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/UDIAT/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT/benign/images
+Subfolders: (none)
+Total files: 109
+Sample files:
+  - 000001.png
+  - 000002.png
+  - 000003.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/malignant/masks
+Subfolders: (none)
+Total files: 453
+Sample files:
+  - 00100_mask.png
+  - 00101_mask.png
+  - 00102_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/malignant/images
+Subfolders: (none)
+Total files: 453
+Sample files:
+  - 001.png
+  - 0010.png
+  - 00100.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/benign/masks
+Subfolders: (none)
+Total files: 358
+Sample files:
+  - 0101_mask.png
+  - 0102_mask.png
+  - 0103_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS_UC/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC/benign/images
+Subfolders: (none)
+Total files: 358
+Sample files:
+  - 01.png
+  - 010.png
+  - 0101.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/malignant/masks
+Subfolders: (none)
+Total files: 94
+Sample files:
+  - chco_000_mask.png
+  - chsp_006_mask.png
+  - chsp_007_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/malignant/images
+Subfolders: (none)
+Total files: 94
+Sample files:
+  - chco_000.png
+  - chsp_006.png
+  - chsp_007.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/benign/masks
+Subfolders: (none)
+Total files: 187
+Sample files:
+  - alwi_000_mask.png
+  - alwi_002_mask.png
+  - alwi_003_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-UCLM/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM/benign/images
+Subfolders: (none)
+Total files: 187
+Sample files:
+  - alwi_000.png
+  - alwi_002.png
+  - alwi_003.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/malignant/masks
+Subfolders: (none)
+Total files: 607
+Sample files:
+  - bus_0001_l_mask.png
+  - bus_0001_r_mask.png
+  - bus_0003_l_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/malignant/images
+Subfolders: (none)
+Total files: 607
+Sample files:
+  - bus_0001_l.png
+  - bus_0001_r.png
+  - bus_0003_l.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/benign/masks
+Subfolders: (none)
+Total files: 1268
+Sample files:
+  - bus_0002_l_mask.png
+  - bus_0002_r_mask.png
+  - bus_0004_l_mask.png
+
+Folder: breastdataset_NORMALIZED/internal/BUS-BRA/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA/benign/images
+Subfolders: (none)
+Total files: 1268
+Sample files:
+  - bus_0002_l.png
+  - bus_0002_r.png
+  - bus_0004_l.png
+
+Folder: breastdataset_NORMALIZED/external
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external
+Subfolders: BUSI, QAMEBI
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI
+Subfolders: benign, malignant
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/malignant/masks
+Subfolders: (none)
+Total files: 123
+Sample files:
+  - 100_malignant_mask.png
+  - 101_malignant_mask.png
+  - 102_malignant_mask.png
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/malignant/images
+Subfolders: (none)
+Total files: 123
+Sample files:
+  - 100_malignant.png
+  - 101_malignant.png
+  - 102_malignant.png
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/benign/masks
+Subfolders: (none)
+Total files: 109
+Sample files:
+  - 100_benign_mask.png
+  - 101_benign_mask.png
+  - 102_benign_mask.png
+
+Folder: breastdataset_NORMALIZED/external/QAMEBI/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI/benign/images
+Subfolders: (none)
+Total files: 109
+Sample files:
+  - 100_benign.png
+  - 101_benign.png
+  - 102_benign.png
+
+Folder: breastdataset_NORMALIZED/external/BUSI
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI
+Subfolders: benign, malignant, normal
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/BUSI/normal
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/normal
+Subfolders: images
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/BUSI/normal/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/normal/images
+Subfolders: (none)
+Total files: 133
+Sample files:
+  - normal_1.png
+  - normal_10.png
+  - normal_100.png
+
+Folder: breastdataset_NORMALIZED/external/BUSI/malignant
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/malignant
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/BUSI/malignant/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/malignant/masks
+Subfolders: (none)
+Total files: 211
+Sample files:
+  - malignant_100_mask.png
+  - malignant_101_mask.png
+  - malignant_102_mask.png
+
+Folder: breastdataset_NORMALIZED/external/BUSI/malignant/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/malignant/images
+Subfolders: (none)
+Total files: 211
+Sample files:
+  - malignant_1.png
+  - malignant_10.png
+  - malignant_100.png
+
+Folder: breastdataset_NORMALIZED/external/BUSI/benign
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/benign
+Subfolders: images, masks
+Total files: 0
+Sample files: (no files)
+
+Folder: breastdataset_NORMALIZED/external/BUSI/benign/masks
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/benign/masks
+Subfolders: (none)
+Total files: 454
+Sample files:
+  - benign_100_lesion1_mask.png
+  - benign_100_lesion2_mask.png
+  - benign_101_mask.png
+
+Folder: breastdataset_NORMALIZED/external/BUSI/benign/images
+Full path: /workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI/benign/images
+Subfolders: (none)
+Total files: 454
+Sample files:
+  - benign_1.png
+  - benign_10.png
+  - benign_100_lesion1.png
+

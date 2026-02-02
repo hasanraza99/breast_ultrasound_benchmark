@@ -1,0 +1,4 @@
+,,Test_BalAcc,Test_BalAcc,Test_Sens,Test_Sens,Test_Spec,Test_Spec,Test_AUC,Test_AUC,Test_AUPRC,Test_AUPRC,ECE_Improvement,ECE_Improvement
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Experiment,Model,,,,,,,,,,,,
+baseline_deit_tiny_distilled_artifacts_strict_any,deit_tiny_distilled_patch16_224,0.806,0.012,0.837,0.045,0.774,0.068,0.893,0.003,0.845,0.007,-0.0,0.009

@@ -1,0 +1,4 @@
+,,Test_BalAcc,Test_BalAcc,Test_Sens,Test_Sens,Test_Spec,Test_Spec,Test_AUC,Test_AUC,Test_AUPRC,Test_AUPRC,ECE_Improvement,ECE_Improvement
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Experiment,Model,,,,,,,,,,,,
+baseline_deit_tiny_distilled_artifacts_lenient_005,deit_tiny_distilled_patch16_224,0.811,0.026,0.778,0.058,0.844,0.016,0.888,0.018,0.842,0.018,0.008,0.016

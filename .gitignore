@@ -1,0 +1,37 @@
+# Model checkpoints (large files - contact via GitHub Issues for access)
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and local settings
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+~$*
+~WRL*
+
+# Large zip files
+breastdataset_NORMALIZED.zip

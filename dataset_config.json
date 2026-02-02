@@ -1,0 +1,20 @@
+{
+  "internal_datasets": {
+    "BUS-BRA": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-BRA",
+    "BUS_UC": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS_UC",
+    "BUS-UCLM": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/BUS-UCLM",
+    "USG": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/USG",
+    "UDIAT": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/internal/UDIAT"
+  },
+  "external_datasets": {
+    "BUSI": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/BUSI",
+    "QAMEBI": "/workspace/breastdataset_NORMALIZED/breastdataset_NORMALIZED/external/QAMEBI"
+  },
+  "source_sizes": {
+    "BUS-BRA": 1875,
+    "BUS_UC": 811,
+    "BUS-UCLM": 281,
+    "USG": 252,
+    "UDIAT": 163
+  }
+}
